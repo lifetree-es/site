@@ -3,7 +3,7 @@ const dynamic_cache_name = 'dynamic-cache-v2.3';
 
 const assets =[
     '/',
-    '/site/index.html',
+    '/index.html',
     
 ];
 
