@@ -1,10 +1,26 @@
-const static_cache_name = 'shell-cache-v3.4';
-const dynamic_cache_name = 'dynamic-cache-v2.3';
+const static_cache_name = 'shell-cache-v4';
+const dynamic_cache_name = 'dynamic-cache-v4';
 
 const assets =[
     '/',
-    '/index.html',
-    
+    'index.html',
+    'pages/coleta.html',
+    'pages/curiosidades.html',
+    'pages/dicas.html',
+    'pages/flora.html',
+    'pages/ong.html',
+    'pages/quemsomos.html',
+    'src/js/app.js',
+    'src/js/main_script.js',
+    'src/css/main_style.css',
+    'src/css/main_style2.css',
+    'src/css/muda.png',
+    'src/css/tree.jpg',
+    'https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css',
+    'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css',
+    'https://code.jquery.com/jquery-3.3.1.slim.min.js',
+    'https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js',
+    'https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js'
 ];
 
 // install service worker
