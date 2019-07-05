@@ -1,0 +1,94 @@
+footer {
+  background-color: #212529;
+  color: white;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+body{
+	font-family:arial;
+	font-size: 10pt;
+}
+		
+/* h1{
+	text-align:center;
+	font-size:15pt;
+	color: #ffffff;
+	background-color:rgba(0,0,0,0.3);
+	padding: 5px;
+	margin:0px;
+} */
+/* h2{
+	text-align:center !important;
+	font-size: 13pt !important;
+	color: #888888 !important;
+	margin: 0px !important;
+} */
+
+h3{
+	text-align:center !important;
+	font-size: 10pt !important;
+	color: black !important;
+	margin: 0px !important;
+}
+
+.linka{
+	text-align:center !important;
+	font-size: 10pt !important;
+
+}
+
+/* h5{
+	text-align:center !important;
+	color: black !important;
+	margin: 0px !important;
+} */
+
+.img{
+	width: 99%;
+	height: 99%;
+}
+
+/* p{
+	text-align: justify;
+ text-indent: 20px;
+} */
+
+.verde-heading{
+	color: #009900;
+}
+.font-for-logo{
+	font-family: 'Kalam', cursive;
+}
+.cabecalho{
+	
+	background-image: url('../pics/image/muda.png');
+	background-size: 100%;
+	position: relative;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 500px;
+}
+
+.overlay{
+	position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #212529;
+    opacity: .7;
+}
+
+.text-header{
+	font-size: 60px;
+	font-weight: bold;
+	padding: 120px 0;
+}
+.sessao{position: relative;}
+.sessao-height{
+	min-height: 250px;
+}
+.sessao-bg{
+	background: #FFF;
+}
