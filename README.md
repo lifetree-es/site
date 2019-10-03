@@ -10,7 +10,4 @@ e divulgação pessoal de seus espaços verdes</p>
 O projeto é idealizado pelos alunos da Faculdade Fabra, localizado em Barcelona, Serra - ES. Pela turma do 5º período de Sistemas de informação noturno. Com finalizade para ser apresentado na mostra acadêmica "Fabra no Pátio".
 
 ## License
-<p>Este é um projeto acadêmico, não possuindo nenhum tipo de licensa. </p>
-
-## Detalhes
-O restante da documentação, banner e outros arquivos estão localizados na pasta "Documentação" do Projeto.
+<p>Este é um projeto acadêmico, não possuindo nenhum tipo de licença. </p>
